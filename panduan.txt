@@ -1,0 +1,17 @@
+Sistem Requirement :
+  -Database MySQL
+  -Xampp V3.3.0 / PHP 8.2.4 (cli)
+
+
+Panduan Instalasi untuk windows:
+
+- Download dan Instal Aplikasi Xampp di Komputer
+- Ekstrak file menggunakan aplikasi WinRAR
+- Copy folder m_laundry, lalu paste ke folder htdocs
+- Aktifkan Apache dan MySQL pada Xampp
+- Buka browser, lalu buka alamat http://localhost/phpmyadmin/
+- Buat database baru dengan nama db_mlaundry
+- Import database aplikasiyang ada dalam folder database ke dalam database db_mlaundry
+- Jalankan project dengan ketik http://localhost/m_laundry/ di browser
+- Login dengan akun user yang sudah ada dalam file dengan nama akun_user
+- selesai

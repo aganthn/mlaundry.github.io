@@ -1,0 +1,25 @@
+LISENSI PERANGKAT LUNAK
+
+Mohon membaca dengan seksama sebelum menggunakan perangkat lunak ini. Dengan menggunakan perangkat lunak ini, Anda setuju untuk terikat dengan persyaratan dan ketentuan yang tercantum di bawah ini.
+
+1. Hak Kepemilikan
+Perangkat lunak ini dan semua hak kekayaan intelektual yang terkait tetap menjadi milik mandankoding. Anda hanya diberikan hak lisensi terbatas untuk menggunakan perangkat lunak ini sesuai dengan ketentuan yang tercantum dalam lisensi ini.
+
+2. Penggunaan
+Anda diberikan hak non-eksklusif untuk menggunakan perangkat lunak ini pada satu komputer/perangkat saja. Penggunaan perangkat lunak ini terbatas hanya untuk penggunaan pribadi atau penggunaan dalam lingkungan bisnis tertentu.
+
+3. Larangan Distribusi
+Anda dilarang untuk menjual, menyewakan, mendistribusikan, atau memperjualbelikan perangkat lunak ini kepada pihak lain tanpa izin tertulis dari mandankoding. Larangan ini mencakup baik aplikasi itu sendiri maupun source code yang terkait.
+
+4. Kepatuhan Hukum
+Anda setuju untuk menggunakan perangkat lunak ini sesuai dengan semua hukum yang berlaku di yurisdiksi tempat Anda tinggal atau beroperasi. Anda bertanggung jawab sepenuhnya untuk mematuhi hukum dan peraturan yang berlaku.
+
+5. Tanggung Jawab
+Perangkat lunak ini disediakan "apa adanya" tanpa jaminan apapun, baik tersurat maupun tersirat. mandankoding tidak bertanggung jawab atas kerugian, kerusakan, atau konsekuensi apapun yang timbul dari penggunaan atau kinerja perangkat lunak ini.
+
+6. Perubahan dan Pembaruan
+mandankoding berhak untuk memperbarui atau mengubah lisensi perangkat lunak ini kapan saja tanpa pemberitahuan sebelumnya. Anda setuju untuk mematuhi setiap perubahan yang dilakukan pada lisensi ini.
+
+7. Pengakhiran Lisensi
+mandankoding berhak untuk mengakhiri lisensi ini jika Anda melanggar ketentuan yang tercantum di dalamnya. Jika lisensi ini diakhiri, Anda harus menghentikan penggunaan perangkat lunak ini dan menghapusnya dari semua perangkat yang Anda miliki.
+

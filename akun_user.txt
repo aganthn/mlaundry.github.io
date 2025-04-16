@@ -1,0 +1,7 @@
+
+- Akses Admin
+	* username: admin15, password: 123456
+
+- Akses Karyawan
+	* username: budisaputra14, password: 123456 
+	* username: saputri10, password: 123456
